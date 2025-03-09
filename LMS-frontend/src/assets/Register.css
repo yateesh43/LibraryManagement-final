@@ -1,0 +1,17 @@
+#register-btn {
+    width: 200px;
+    height: 35px;
+    border: none;
+    border-top-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    color: #f2f2f2;
+    background-color: #FF5722;
+    transition: all 0.3s ease;
+    margin: 0 auto;
+  }
+  
+  #register-btn:hover {
+    background-color: #F57C00;
+    cursor: pointer;
+  }
+  
